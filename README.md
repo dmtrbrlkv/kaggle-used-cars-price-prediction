@@ -1,4 +1,4 @@
-# kaggle-used-cars-price-prediction
+# Used car's price prediction
 
 Ноутбук с обученной для соревнования моделью.  
 https://www.kaggle.com/competitions/used-cars-price-prediction (2-е место)  
